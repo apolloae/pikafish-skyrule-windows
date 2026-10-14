@@ -6,7 +6,7 @@ on:
       ref:
         description: 'Official Pikafish ref (master or commit SHA)'
         required: false
-        default: 'master'
+        default: 'master1'
   push:
     paths:
       - 'apply_skyrule.py'
